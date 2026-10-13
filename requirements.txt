@@ -1,0 +1,11 @@
+pandas
+numpy
+google-cloud-bigquery
+google-auth
+simple-salesforce
+python-dotenv
+openpyxl
+xlsxwriter
+pyarrow
+db-dtypes
+requests
